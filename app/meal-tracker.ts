@@ -5,5 +5,7 @@ class Meal {
 }
 
 var meals: Meal[] = [];
-meals.push(new Meal('pizza', 'it was quite delicious', 300));
+meals.push(new Meal('Pizza', 'It was quite delicious', 300));
+meals.push(new Meal('Big-Mac', 'I only ate roughly half', 500));
+meals.push(new Meal('Pop.tarts', 'it was very sugary', 300));
 console.log(meals);
