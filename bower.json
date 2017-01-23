@@ -1,0 +1,17 @@
+{
+  "name": "typescript-meal-tracker",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Getro Naissance <getro89@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
