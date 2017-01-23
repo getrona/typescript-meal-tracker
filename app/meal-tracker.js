@@ -14,3 +14,4 @@ for (var _i = 0, meals_1 = meals; _i < meals_1.length; _i++) {
     var meal = meals_1[_i];
     console.log(meal);
 }
+//# sourceMappingURL=meal-tracker.js.map
